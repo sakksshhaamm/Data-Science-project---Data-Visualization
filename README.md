@@ -1,4 +1,4 @@
-# learn-lang
+# About the Project learn-lang
 
 There are many language learning tools so why have I created another one? This question might be tormenting you but let me tell you what is the new in this tool.
 
