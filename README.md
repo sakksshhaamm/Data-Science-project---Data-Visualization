@@ -14,9 +14,14 @@ About the Data:
   Techniques to enhance Visualization, 
   Represent Geopgraphic data
   
+  
+  
+##### Tasks will be added frequently
 
 
-In this project, you have following tasks to do:
+
+
+### In this project, you have following tasks to do:
 
 #### 1: Loading the Data 
 #### 2: Plotting quick Visualizations with Custom Bar Charts
@@ -25,3 +30,6 @@ In this project, you have following tasks to do:
 #### 5: Create Interactive Animations and Facet Plots 
 #### 6: Represent Geographic Data as Animated Maps
 #### 7: Interactive Line Plots and Area Plots 
+
+
+##### Some Visualizations Example From this Project have been provided above.
